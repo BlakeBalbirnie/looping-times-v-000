@@ -4,4 +4,4 @@ def using_times
   end
 end
 
-using times
+using times;
